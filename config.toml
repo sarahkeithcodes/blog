@@ -18,6 +18,6 @@ disqusShortname = 'Sarah Keith'   # use disqus comments
   #rss = true                                # show rss icon
 
   # home page profile
-  avatar = '/static/avatar.svg'                  # gravatar email or image url
+  avatar = 'https://sarahkeithcodes.github.io/avatar.svg' # gravatar email or image url
   name = 'Sarah Keith'
   bio = 'Tech enthusiast and aspiring developer, blending front-end and back-end expertise to build compelling web experiences.'

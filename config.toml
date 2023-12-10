@@ -1,0 +1,4 @@
+baseURL = 'https://sarahkeithp.github.io/'
+languageCode = 'en-us'
+title = 'Sarah Blog'
+theme = 'paper'

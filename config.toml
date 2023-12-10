@@ -1,4 +1,23 @@
-baseURL = 'https://sarahkeithp.github.io/'
-languageCode = 'en-us'
-title = 'Sarah Blog'
-theme = 'paper'
+baseURL = "https://sarahkeithcodes.github.io/"
+languageCode = "en-us"
+title = "Sarah's Blog"
+theme = "paper"
+
+disqusShortname = 'Sarah Keith'   # use disqus comments
+
+[params]
+  # color style
+  color = 'linen'                            # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'sarahkeithcodes'                # twitter.com/YOUR_TWITTER_ID
+  github = 'sarahkeithcodes'                 # github.com/YOUR_GITHUB_ID
+  #instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
+  linkedin = 'sarahkeithp'                   # linkedin.com/in/YOUR_LINKEDIN_ID
+  #mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+  #rss = true                                # show rss icon
+
+  # home page profile
+  avatar = '/static/avatar.svg'                  # gravatar email or image url
+  name = 'Sarah Keith'
+  bio = 'Tech enthusiast and aspiring developer, blending front-end and back-end expertise to build compelling web experiences.'
